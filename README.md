@@ -1,38 +1,37 @@
-Hi there! 👋
-I’m Chetan(@AroteChetan18), a passionate Java Software Engineer focused on building scalable, high-performance backend applications using modern Java technologies.
 
-My Journey 🚀
-My journey in software development started with a strong interest in core Java and object-oriented programming. Over time, I’ve worked on real-world projects using Spring Boot and Hibernate, gaining hands-on experience in building RESTful web applications.
-Learning by doing and improving code quality every day is what keeps me motivated.
+Hi there! 👋<br>
+         &nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;  I’m Chetan(@AroteChetan18), a passionate Java Software Engineer focused on building scalable, high-performance backend applications using modern Java technologies.<br><br>
 
-What Drives Me 🏆
-I enjoy solving backend problems, designing clean APIs, and understanding how systems work behind the scenes.
-I believe in:
-Writing clean & maintainable code
-Following SDLC best practices
-Learning from teammates and real project challenges
-Debugging an issue and finally seeing the application work smoothly is my favorite win 😄
+My Journey 🚀<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;   &nbsp;&nbsp;&nbsp;&nbsp; My journey in software development started with a strong interest in core Java and object-oriented programming. Over time, I’ve worked on real-world projects using Spring Boot and Hibernate, gaining hands-on experience in building RESTful web applications.
+Learning by doing and improving code quality every day is what keeps me motivated.<br><br>
 
-Tools & Technologies 🛠️
-I mostly work with:
-Languages:  Java (Core & Advanced), Basic JavaScript, HTML, CSS
-Frameworks & Technologies: Spring Core ,Spring Boot, Hibernate (Mapping & Cache),  RESTful APIs, Microservices (Basics)
+What Drives Me 🏆<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;   &nbsp;&nbsp;&nbsp;&nbsp; I enjoy solving backend problems, designing clean APIs, and understanding how systems work behind the scenes.<br>
+I believe in:<br>
+  &nbsp;&nbsp;&nbsp;&nbsp; Writing clean & maintainable code .<br>
+  &nbsp;&nbsp;&nbsp;&nbsp; Following SDLC best practices .<br>
+  &nbsp;&nbsp;&nbsp;&nbsp; Learning from teammates and real project challenges .<br>
+  &nbsp;&nbsp;&nbsp;&nbsp; Debugging an issue and finally seeing the application work smoothly is my favorite win 😄<br><br>
 
-Database :MySQL
+Tools & Technologies 🛠️<br>
+   &nbsp;&nbsp;&nbsp;&nbsp; I mostly work with:<br>
+  &nbsp;&nbsp;&nbsp;&nbsp; Languages:  Java (Core & Advanced), Basic JavaScript, HTML, CSS <br>
+  &nbsp;&nbsp;&nbsp;&nbsp; Frameworks & Technologies: Spring Core ,Spring Boot, Hibernate (Mapping & Cache),  RESTful APIs, Microservices (Basics)<br>
 
-Concepts: OOPS, Collections Framework, Exception Handling , String Handling ,SDLC
+*  Database :MySQL<br>
+*  Concepts : OOPS, Collections Framework, Exception Handling , String Handling ,SDLC<br>
+*  Tools    :Git & GitHub<br><br>
 
-Tools:Git & GitHub
+Current Focus 🔍<br>
+   &nbsp;&nbsp;&nbsp;&nbsp; Building backend applications using Spring Boot<br>
+  &nbsp;&nbsp;&nbsp;&nbsp; Improving REST API design<br>
+  &nbsp;&nbsp;&nbsp;&nbsp; Exploring Microservices architecture<br>
+  &nbsp;&nbsp;&nbsp;&nbsp; Strengthening database and performance optimization skills<br>
+  &nbsp;&nbsp;&nbsp;&nbsp; I’m always open to collaboration and learning opportunities 🚀<br><br>
 
-Current Focus 🔍
-Building backend applications using Spring Boot
-Improving REST API design
-Exploring Microservices architecture
-Strengthening database and performance optimization skills
-I’m always open to collaboration and learning opportunities 🚀
+Connect With Me 📫<br>
+GitHub: @AroteChetan18<br>
+LinkedIn:https://www.linkedin.com/in/chetanarote-332580255 <br><br>
 
-Connect With Me 📫
-GitHub: @AroteChetan18
-LinkedIn:https://www.linkedin.com/in/chetanarote-332580255 
-
-✨ Fun fact: I love converting complex backend logic into simple, efficient solutions—and I’m starting to make them visually too!
+✨ Fun fact: I love converting complex backend logic into simple, efficient solutions and I’m starting to make them visually too!
